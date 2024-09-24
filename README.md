@@ -1,4 +1,4 @@
-# Sandi-Town
+# About me
 ## Introduction
 I am an individual designer based in Wuhan, China.
 I am passionate about digital arts, and interactive installations.
